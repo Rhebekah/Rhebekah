@@ -23,7 +23,7 @@
 ## 📫 Connect With Me
 
 - Email: Beckyajayi25@gmail.com  
-- LinkedIn: your_linkedin  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/becky-ajayi-225ab63b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 
