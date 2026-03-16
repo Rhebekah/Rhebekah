@@ -14,39 +14,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### Programming Languages
-- Python  
-- Java  
-- JavaScript  
-- SQL  
-
-### Web Development
-- HTML  
-- CSS  
-- React  
-- FastAPI  
-
-### Database
-- PostgreSQL  
-- MySQL  
-
-### Tools
-- Git  
-- GitHub  
-- VS Code  
-
----
-
-## 📌Projects
-
-- 🤖 AI Resume & Job Application Tracker  
-- 📚 AI Study Plan Generator  
-- 👕 Clothing Swap & Rental App  
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rhebekah&show_icons=true&theme=radical)
@@ -55,7 +22,7 @@
 
 ## 📫 Connect With Me
 
-- Email: your_email@example.com  
+- Email: Beckyajayi25@gmail.com  
 - LinkedIn: your_linkedin  
 
 ---
