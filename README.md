@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🎓4th Year Computer Science & Engineering Student  
+- A Computer Science & Engineering Student living in Korea 
 - Passionate about Web Development, AI Applications and Data Analysis  
 - Currently learning FastAPI, Backend Development and System Programming  
 - Preparing for Software Development Internships  
