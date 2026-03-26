@@ -1,16 +1,16 @@
 # Hi 👋, I'm Kehinde Ajayi
 
-### 💻 Computer Science Student | Aspiring Software Developer
+### 💻 Computer Science Student | Software Developer
 
 ---
 
 ## 🚀 About Me
 
-- A Computer Science & Engineering Student living in Korea 
-- Passionate about Web Development, AI Applications and Data Analysis  
-- Currently learning FastAPI, Backend Development and System Programming  
-- Preparing for Software Development Internships  
-- I enjoy building startup ideas and real-world applications  
+- A Computer Science & Engineering Student living in Korea
+- Passionate about Web Development, AI Applications and Data Analysis
+- Currently learning FastAPI, Backend Development and System Programming
+- Preparing for Software Development Internships
+- Trying to build projects to for my future
 
 ---
 
@@ -22,8 +22,9 @@
 
 ## 📫 Connect With Me
 
-- Email: Beckyajayi25@gmail.com  
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/becky-ajayi-225ab63b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- Email: Beckyajayi25@gmail.com
+- LinkedIn: [Becky Ajayi](https://www.linkedin.com/in/becky-ajayi-225ab63b7)
+- Instagram: [ajayi_becca](https://instagram.com/ajayi_becca)
 
 ---
 
